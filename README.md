@@ -5,5 +5,8 @@ iOS port of the DailyNews App:- https://github.com/smil-thakur/Daily-News-App
 
 <h1>Here is the demo of the App</h1>
 
-Uploading Screen Recording 2023-06-27 at 10.37.27 AM.mov…
+
+
+
+https://github.com/smil-thakur/DailyNews/assets/75114432/af15c60f-c0fd-47e6-9485-11fb63359be4
 
